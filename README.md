@@ -23,6 +23,6 @@ I rely on data-driven insights and thorough research to provide reports and sugg
 
 🌱 I’m learning about Application of Artificial Intelligence and Automation in Data Science and Data Analysis.
 
-🎖️ All of my projects are available in 
+🎖️ All of my projects are available in my repositories.
 
 ⚡ Fun fact is that I'm proficient in Machine Learning and data science programming languages such as Python and R language.
