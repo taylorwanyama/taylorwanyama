@@ -19,7 +19,7 @@ I rely on data-driven insights and thorough research to provide reports and sugg
 [![](https://visitcount.itsvg.in/api?id=taylorwanyama&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-🔭 I’m currently working on Android Application for Home Services.
+🔭 I’m currently working on a stock market portfolio.
 
 🌱 I’m learning about Application of Artificial Intelligence and Automation in Data Science and Data Analysis.
 
