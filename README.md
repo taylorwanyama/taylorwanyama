@@ -2,6 +2,7 @@
 
 I specialize in machine learning, data science and data analysis, driven by a strong motivation, adaptability, and a solution-oriented mindset, with a financial engineering background.
 I rely on data-driven insights and thorough research to provide reports and suggestions that emphasize customer requirements, financial implications, and the enduring success of clients. Integrity, confidentiality, and teamwork are fundamental values in my work. My aim is to advance towards a better future through ongoing enhancement and creativity.
+
 Here is a link to my prefessional website: [professional portfolio](https://taylor-wanyama-portfolio.my.canva.site/taylor-wanyama-portfolio) 
 
 
