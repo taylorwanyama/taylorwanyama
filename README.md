@@ -1,8 +1,7 @@
-## Hi👋, I'm Taylor 
+## About Me
+I'm Taylor Wanyama, a Full Stack Data Scientist with a background in Financial Engineering. I specialize in machine learning, data analysis, and building ETL pipelines that turn raw data into actionable insights.
 
-I specialize in machine learning, data science and data analysis, driven by a strong motivation, adaptability, and a solution-oriented mindset, with a financial engineering background.
-I rely on data-driven insights and thorough research to provide reports and suggestions that emphasize customer requirements, financial implications, and the enduring success of clients. Integrity, confidentiality, and teamwork are fundamental values in my work. My aim is to advance towards a better future through ongoing enhancement and creativity.
-
+I'm passionate about using data to solve real-world problems and help businesses make informed decisions. Integrity, collaboration, and continuous learning guide my work as I strive to create innovative, data-driven solutions.
 Here is a link to my prefessional website: [professional portfolio](https://taylor-wanyama-portfolio.my.canva.site/taylor-wanyama-portfolio) 
 
 
