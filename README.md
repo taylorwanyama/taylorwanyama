@@ -3,7 +3,7 @@ I'm Taylor Wanyama, a Full Stack Data Scientist with a background in Financial E
 
 I'm passionate about using data to solve real-world problems and help businesses make informed decisions. Integrity, collaboration, and continuous learning guide my work as I strive to create innovative, data-driven solutions.
 
-Here is a link to my prefessional website: [professional portfolio](https://taylor-wanyama-portfolio.my.canva.site/taylor-wanyama-portfolio) 
+Here is a link to my prefessional website: [professional portfolio](https://taylorwanyama.github.io/) 
 
 
 ## 🌐 Socials:
