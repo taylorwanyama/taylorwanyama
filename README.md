@@ -19,9 +19,6 @@ Here is a link to my prefessional website: [professional portfolio](https://tayl
 ---
 [![](https://visitcount.itsvg.in/api?id=taylorwanyama&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-🔭 I’m currently working on a stock market portfolio.
-
 🌱 I’m learning about Application of Artificial Intelligence and Automation in Data Science and Data Analysis.
 
 🎖️ All of my projects are available in my repositories.
